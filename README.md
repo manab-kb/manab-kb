@@ -24,9 +24,9 @@ I love coding in Python :snake: and C++. I am a [Microsoft Learn Student Ambassa
 
 ### Let's Connect :coffee:
 <p align="center">
-	<a href="https://github.com/Manab784"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/manab-kb"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/manabkb"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<br/><br/>
-	<img src="https://github-readme-stats.vercel.app/api?username=Manab784&show_icons=true&theme=tokyonight" />
+	<img src="https://github-readme-stats.vercel.app/api?username=manab-kb&show_icons=true&theme=tokyonight" />
 	<img src="./Wave_Bottom.png" width="100%" height="60px"/>
 </p>

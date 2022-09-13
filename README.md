@@ -10,7 +10,7 @@ I love coding in Python :snake: and C++. I am a [Microsoft Learn Student Ambassa
 
 - 🔭 I’m currently working on a Deep Learning model.
 - 🌱 I’m currently building up my basics in Deep Learning.
-- ⚡ Fun fact: I love playing the piano and console games.
+- ⚡ I love playing the piano and console games.
 - :pencil2: I Write blogs on [Medium](https://medium.com/@manab_biswas) on free days.
 - :musical_note: I love to listen to EDM's and Dubstep Music.
 

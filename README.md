@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-I love coding in Python :snake: and C++. I am a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/157076). I regularly (try to) participate in hackathons, coding contests and practice problem solving on websites such as - [Hackerrank](https://www.hackerrank.com/mkbiswas_784), Leetcode, etc.
+I love coding in Python :snake: and C++. I am currently an intern at [Bank of America](https://www.linkedin.com/in/manabkb/details/experience/) and also a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/157076). I regularly (try to) participate in hackathons, coding contests and practice problem solving on websites such as - [Hackerrank](https://www.hackerrank.com/mkbiswas_784), Leetcode, etc.
 
 ### ⚡ Fun fact:
 

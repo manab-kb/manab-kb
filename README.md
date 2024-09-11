@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./Wave_Headers.png" width="100%" height="80px"/>
+	<img src="./Wave_Headers.png" width="1200px" height="80px"/>
 </div>
 
 # Hi there 👋
@@ -28,5 +28,8 @@ I love coding in Python :snake: and C++. I am a [Microsoft Learn Student Ambassa
 	<a href="https://www.linkedin.com/in/manabkb"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<br/><br/>
 	<img src="https://github-readme-stats.vercel.app/api?username=manab-kb&show_icons=true&theme=tokyonight" />
-	<img src="./Wave_Bottom.png" width="100%" height="60px"/>
 </p>
+
+<div align="center">
+	<img src="./Wave_Bottom.png" width="1200px" height="80px"/>
+</div>

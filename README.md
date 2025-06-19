@@ -4,23 +4,23 @@
 
 # Hi there 👋
 
-I love coding in Python :snake: and C++. I am a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/157076). I regularly (try to) participate in hackathons, coding contests and practice problem solving on websites such as - [Hackerrank](https://www.hackerrank.com/mkbiswas_784), Leetcode, etc.
+I am a SDE Analyst at Bank of America and love coding in Python :snake: and C. I regularly (try to) participate in hackathons, coding contests and practice problem solving on websites such as - [Hackerrank](https://www.hackerrank.com/mkbiswas_784), Leetcode, etc.
 
-### ⚡ Fun fact:
+### ⚡ Fun facts:
 
-- 🔭 I’m currently working on a Deep Learning model.
-- 🌱 I’m currently building up my basics in Deep Learning.
+- 🔭 I’m currently working on whatever my manager tells me to do (he's lovely).
+- 🌱 I’m currently building up my knowledge and proficiency in Deep Learning.
 - ⚡ I love playing the piano and console games.
 - :pencil2: I Write [blogs](https://marvelous-khapse-869e73.netlify.app/blog/) on free days.
 - :musical_note: I love to listen to EDM's and Dubstep Music.
 
  ### 🧰 Languages:
 
-- Python (Intermediate)         
-- C++ (Intermediate)
-- C (Intermediate-Advanced)
 - Kotlin (Basic-Intermediate)
-- MERN Stack (Intermediate)
+- C++ (Intermediate)
+- Python (Intermediate-Advanced)         
+- C (Intermediate-Advanced)
+- MERN Stack (Intermediate-Advanced)
 
 ### Let's Connect :coffee:
 <p align="center">

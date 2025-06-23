@@ -10,9 +10,7 @@ I am a SDE Analyst at Bank of America and love coding in Python :snake: and C. I
 
 - 🔭 I’m currently working on whatever my manager tells me to do (he's lovely).
 - 🌱 I’m currently building up my knowledge and proficiency in Deep Learning.
-- ⚡ I love playing the piano and console games.
-- :pencil2: I Write [blogs](https://marvelous-khapse-869e73.netlify.app/blog/) on free days.
-- :musical_note: I love to listen to EDM's and Dubstep Music.
+- :pencil2: I Write [blogs](https://manabkumarbiswas.software/blog/) on free days.
 
  ### 🧰 Languages:
 
